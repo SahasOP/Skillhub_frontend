@@ -2,7 +2,7 @@ import React, { useState, useCallback, useRef, useEffect, useMemo } from "react"
 
 import { Badge } from "../../components/ui/badge";
 import { Input } from "../../components/ui/input";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Card, CardHeader, CardContent } from "../../components/ui/card";
 import ReactQuill from "react-quill";
 import "react-quill/dist/quill.snow.css";

@@ -4,7 +4,7 @@ import {
   Card, CardContent, CardHeader, CardTitle, CardFooter,
 } from "../../components/ui/card";
 import { Input } from "../../components/ui/input";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Textarea } from "../../components/ui/textarea";
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "../../components/ui/select";
 import { Alert, AlertDescription, AlertTitle } from "../../components/ui/alert";

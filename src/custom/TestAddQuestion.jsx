@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useRef, useEffect } from "react";
 import { Badge } from "../../components/ui/badge";
 import { Input } from "../../components/ui/input";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Textarea } from "../../components/ui/textarea";
 import { Card, CardHeader, CardContent } from "../../components/ui/card";
 import {

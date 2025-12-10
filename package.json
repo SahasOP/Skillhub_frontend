@@ -38,7 +38,6 @@
     "leetcode-calendar": "^1.0.1",
     "leetcode-query": "^1.2.3",
     "lucide-react": "^0.454.0",
-    "my-project": "file:",
     "node-fetch": "^3.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -52,7 +51,6 @@
     "sweetalert2": "^11.14.4",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "wedge-shape": "file:..",
     "zustand": "^5.0.1"
   },
   "devDependencies": {

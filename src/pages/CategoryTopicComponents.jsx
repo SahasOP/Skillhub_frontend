@@ -1,6 +1,6 @@
 // CategoryCard.jsx
 import React from "react";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card";
 import { ChevronRight } from "lucide-react";
 
@@ -28,7 +28,7 @@ const CategoryCard = ({ category, topics, onSelectCategory, isSelected }) => {
 // TopicsList.jsx
 import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Plus, FolderOpen } from "lucide-react";
 import {
   Dialog,

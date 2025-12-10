@@ -5,7 +5,7 @@ import CodeChef from "../assets/codechef.jpg";
 import CodeForces from "../assets/codeforces.webp";
 import CodingNinja from "../assets/codingninja.jpeg";
 import { Card, CardContent } from "../../components/ui/card";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Input } from "../../components/ui/input";
 import { Checkbox } from "../../components/ui/checkbox";
 import { useDispatch, useSelector } from "react-redux";

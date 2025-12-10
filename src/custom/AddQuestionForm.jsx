@@ -1,7 +1,7 @@
 import React from "react";
 import { Card } from "../../components/ui/card";
 import { Input } from "../../components/ui/input";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 
 const AddQuestionForm = React.memo(
   ({ newQuestion, onInputChange, onSubmit, onCancel }) => {

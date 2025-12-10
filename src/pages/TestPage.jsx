@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Card, CardHeader, CardContent } from "../../components/ui/card";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import { Timer, ArrowRight, ArrowLeft, X } from "lucide-react";
 import QuestionSidebar from "../custom/QuestionSidebar";
 import { Link, useNavigate, useParams } from "react-router-dom";

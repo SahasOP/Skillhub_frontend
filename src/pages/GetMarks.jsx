@@ -9,7 +9,7 @@ import {
   CardDescription,
 } from "../../components/ui/card";
 import { Input } from "../../components/ui/input";
-import Button from "@/ui/button";
+import Button from "@/ui/Button";
 import Sidebar from "@/custom/Sidebar";
 import SubHeading from "@/custom/Subheading";
 import {

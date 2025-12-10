@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, BarChart, Bar } from 'recharts';
 import { ArrowUp, ArrowDown, Medal, TrendingUp } from 'lucide-react';
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/Subheading";
 import {
   LifeBuoy,
   Receipt,

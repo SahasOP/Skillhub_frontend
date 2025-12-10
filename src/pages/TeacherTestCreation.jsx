@@ -1,9 +1,9 @@
 import React, { useState, useCallback, useRef, useEffect } from "react";
 import QuestionForm from "../custom/TestAddQuestion";
 import TestDetailsSection from "../custom/TestDetailsSection";
-import Sidebar from "../custom/Sidebar";
+import Sidebar from "@/custom/Sidebar";
 import { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import SubHeading from "@/custom/Subheading";
 
 const TeacherTestCreation = () => {
   const [testDetails, setTestDetails] = useState({

@@ -14,7 +14,7 @@ import {
   UserCircle,
   Settings,
 } from "lucide-react";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
 import { useDispatch, useSelector } from "react-redux";
 import { getTestsbyTeacherid } from "@/store/Slices/TestSlice";
 

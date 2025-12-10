@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { Card, CardContent } from "../../components/ui/card";
-import Sidebar from "../custom/Sidebar";
-import SubHeading from "../custom/StudentSubheading";
+import Sidebar from "@/custom/Sidebar";
+import SubHeading from "@/custom/StudentSubheading";
 import { getCategories } from "../store/Slices/TopicSlice";
 
 const CategoryPage = () => {

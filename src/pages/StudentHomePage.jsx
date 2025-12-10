@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "../assets/styles.css";
 import Header from "@/custom/header";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
 import {
   Settings,
   Camera,

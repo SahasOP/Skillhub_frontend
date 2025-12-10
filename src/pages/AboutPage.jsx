@@ -2,8 +2,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { Github, Linkedin, Instagram, ArrowLeft } from "lucide-react";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/Subheading";
 import { LifeBuoy, Receipt, Boxes, Package, UserCircle, BarChart3, LayoutDashboard, Settings, Users, Target, Trophy, Award, Download, Search, ArrowUpDown } from "lucide-react";
 // Import images
 import sahas from "../assets/Sahas.png";

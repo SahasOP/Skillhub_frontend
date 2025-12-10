@@ -23,8 +23,8 @@ import {
   CardHeader,
   CardTitle,
 } from "../../components/ui/card";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/Subheading";
 import {
   BarChart,
   LineChart,

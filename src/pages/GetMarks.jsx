@@ -10,8 +10,8 @@ import {
 } from "../../components/ui/card";
 import { Input } from "../../components/ui/input";
 import Button from "@/ui/button";
-import Sidebar from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import Sidebar from "@/custom/Sidebar";
+import SubHeading from "@/custom/Subheading";
 import {
   BarChart,
   Bar,

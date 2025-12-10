@@ -3,8 +3,8 @@ import { Card, CardHeader, CardContent } from "../../components/ui/card";
 import Button from "@/ui/button";
 import { Badge } from "../../components/ui/badge";
 import { Input } from "../../components/ui/input";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/StudentSubheading";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/StudentSubheading";
 import { Link, useNavigate } from "react-router-dom";
 import {
   Tabs,

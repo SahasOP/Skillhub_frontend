@@ -31,8 +31,8 @@ import {
   ResponsiveContainer,
   Tooltip,
 } from "recharts";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/Subheading";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/Subheading";
 import { useLocation } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { getCurrentTestMarks, getTestByid } from "@/store/Slices/TestSlice";

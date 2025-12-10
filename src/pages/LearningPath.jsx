@@ -37,9 +37,9 @@ import {
   Delete,
   X,
 } from "lucide-react";
-import Header from "../custom/Header";
-import Sidebar, { SidebarItem } from "../custom/Sidebar";
-import SubHeading from "../custom/StudentSubheading";
+import Header from "@/custom/header";
+import Sidebar, { SidebarItem } from "@/custom/Sidebar";
+import SubHeading from "@/custom/StudentSubheading";
 import AddQuestionForm from "../custom/AddQuestionForm";
 
 const getPlatformImage = (platform) => {

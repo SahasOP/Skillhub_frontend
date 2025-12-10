@@ -4,8 +4,8 @@ import { useNavigate, useParams } from "react-router-dom";
 
 import { Card, CardContent } from "../../components/ui/card";
 import Button from "@/ui/Button";
-import Sidebar from "../custom/Sidebar";
-import SubHeading from "../custom/StudentSubheading";
+import Sidebar from "@/custom/Sidebar";
+import SubHeading from "@/custom/StudentSubheading";
 import AddQuestionForm from "../custom/AddQuestionForm";
 
 import { ArrowLeft, Edit, Trash2, Plus, X } from "lucide-react";

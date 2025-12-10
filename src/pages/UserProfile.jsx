@@ -1,7 +1,7 @@
 import React from "react";
-import Sidebar from "../custom/Sidebar";
+import Sidebar from "@/custom/Sidebar";
 import ProfileSection from "../custom/ProfileSection";
-import SubHeading from "../custom/Subheading";
+import SubHeading from "@/custom/Subheading";
 import { useSelector } from "react-redux";
 const UserProfile = () => {
   const { data } = useSelector((state) => state.auth);

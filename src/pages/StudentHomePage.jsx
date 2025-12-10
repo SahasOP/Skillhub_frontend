@@ -29,7 +29,7 @@ import {
   Sector,
   Cell,
 } from "recharts";
-import { Button } from "../../components/ui/Button";
+import Button from "@/ui/button";
 import { motion } from "framer-motion";
 
 const HomePage = () => {

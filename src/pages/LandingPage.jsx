@@ -12,7 +12,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 import { Card, CardContent } from "../../components/ui/card";
-import { Button } from "../../components/ui/button";
+import Button from "@/ui/button";
 import blueclglogo from "../assets/logoL.png";
 import { Link } from "react-router-dom";
 import { UserMenu } from "./UserMenu";
